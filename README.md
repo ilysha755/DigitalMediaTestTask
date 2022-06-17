@@ -1,4 +1,4 @@
-# vue-books-app
+# DigitalMediaTestTask
 
 ## Project setup
 ```
